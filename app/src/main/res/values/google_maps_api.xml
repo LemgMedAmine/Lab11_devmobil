@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--
+    TP Google Maps Activity - Lemghili Mohammed Amine
+
+
+    Google Cloud credentials page:
+    https://console.cloud.google.com/google/maps-apis/credentials
+
+    Package name:
+    com.example.googlemapsactivity
+
+    Debug SHA-1:
+    Run this command if you need it:
+    keytool -list -v -keystore %USERPROFILE%\.android\debug.keystore -alias androiddebugkey -storepass android -keypass android
+    -->
+    <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">"Your_API_Key"</string>
+</resources>
